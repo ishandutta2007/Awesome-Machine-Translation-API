@@ -65,7 +65,7 @@ Below is a comparison of leading enterprise and developer-focused commercial Mac
 
 Explore self-hosted, offline-capable, and open-weights Machine Translation frameworks and pre-trained models.
 
-*Sorted by GitHub Stars_Count (Descending)*
+*Sorted by GitHub_Stars_Count (Descending)*
 
 | Repository | GitHub_Stars ⭐ | Key Focus & Description 📝 |
 | :--- | :--- | :--- |
