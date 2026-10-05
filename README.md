@@ -137,3 +137,4 @@ If this repository helped you find the right Machine Translation API or self-hos
 </p>
 # Awesome-Machine-Translation-API
 
+I'll research current pricing and open-source options for machine translation APIs.
