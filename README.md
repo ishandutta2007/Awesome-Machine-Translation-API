@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Machine-Translation-API?style=flat-square&color=gold" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Machine-Translation-API?style=flat-square&color=gold" alt="GitHub_Stars" />
   <img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Machine-Translation-API?style=flat-square&color=blue" alt="GitHub Forks" />
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Machine-Translation-API?style=flat-square" alt="Last Commit" />
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,9 +65,9 @@ Below is a comparison of leading enterprise and developer-focused commercial Mac
 
 Explore self-hosted, offline-capable, and open-weights Machine Translation frameworks and pre-trained models.
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
-| Repository | GitHub Stars ⭐ | Key Focus & Description 📝 |
+| Repository | GitHub_Stars ⭐ | Key Focus & Description 📝 |
 | :--- | :--- | :--- |
 | **[huggingface/transformers](https://github.com/huggingface/transformers)** | [![Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers) | State-of-the-art machine learning framework hosting ready-to-use NMT translation pipelines (OPUS-MT, NLLB, M2M-100, Marian). |
 | **[openai/whisper](https://github.com/openai/whisper)** | [![Stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers) | Robust speech recognition and multilingual speech translation model trained on 680,000 hours of multilingual data. |
